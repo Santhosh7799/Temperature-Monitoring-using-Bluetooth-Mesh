@@ -1,6 +1,6 @@
-# ECEN 5823 Bluetooth Mesh Skeleton Project
+# ECEN 5823 Bluetooth Mesh
 
-This project contains skeleton code used for coursework in University of Colorado [ECEN 5823 IoT Embedded Firmware](https://sites.google.com/colorado.edu/ecen5823/home).
+This project contains code used for coursework in University of Colorado [ECEN 5823 IoT Embedded Firmware]
 
 Below is an overview of the sequence used to generate this repository:
 * The project was generated starting with the new project Wizard built into [Simplicity Studio 4](https://www.silabs.com/products/development-tools/software/simplicity-studio).  
